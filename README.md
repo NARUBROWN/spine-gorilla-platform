@@ -1,5 +1,7 @@
 # spine-gorilla-platform
 
+> 이 작업 소스의 대상 버전은 `v0.2.0`이며 Preview, RC, 정식 채널로 발행합니다. [릴리스 운영](RELEASING.md)을 확인하세요. 기존 정식 `v0.1.0`은 변경하지 않습니다.
+
 Gorilla WebSocket을 Spine의 `spine.websocket-adapter/v1` 계약에 연결하는 독립 Go 모듈입니다. 모듈 경로는 `github.com/NARUBROWN/spine-gorilla-platform`입니다. Echo를 import하지 않으며 HTTP 플랫폼과 함께 선택합니다.
 
 ```go
