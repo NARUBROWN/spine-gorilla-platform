@@ -1,2 +1,4 @@
 dev.go.mod
 dev.go.sum
+
+__pycache__/
